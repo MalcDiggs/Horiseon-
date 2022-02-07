@@ -1,6 +1,6 @@
 # Horiseon marketing project
 
-Description
+##Description
 Horiseon marketing page refactored for better accessibility standards and a clear detailed layout of what the company provides.
 
 #Screenshot
